@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbuEfe
-- 👀 I’m interested in working freelance as an HTML developer or HTML editor
-- 🌱 I’m currently learning CSS and Cyber security
-- 💞️ I’m looking to collaborate on any project that involves HTML coding on a freelance
+- 👀 I’m interested in working freelance as an HTML, CSS and SASS developer / Editor
+- 🌱 I’m currently learning JavaScript and Data Science
+- 💞️ I’m looking to collaborate on any project that involves HTML, CSS and SASS coding on a freelance
 - 📫 How to reach me at anthonyabugu@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
